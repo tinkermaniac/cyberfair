@@ -18,9 +18,9 @@
 
 /* Colors */
 :root {
-  --color-default: #F4AD04;
+  --color-default: #CC6B04;
   --color-primary: #feb900;
-  --color-secondary: #F3D937;
+  --color-secondary: #8C8984;
 }
 
 /* Smooth scroll behavior */
@@ -319,7 +319,7 @@ section {
     font-family: var(--font-primary);
     font-size: 14px;
     font-weight: 500;
-    color: rgba(255, 255, 255, 0.6);
+    color: rgba(255, 255, 255, 0.8);
     text-transform: uppercase;
     white-space: nowrap;
     transition: 0.3s;
