@@ -80,7 +80,7 @@ var simplemaps_countrymap_mapdata={
       hover_color: "#feb900",
       image_url: "no",
       description: "Authentic dishes of Andhra Pradesh",
-      url: "https://ritwik6.github.io/cyberfair/index.html#projects",
+      url: "https://ritwik6.github.io/cyberfair/guide.html#projects",
       zoomable: "no"
     },
     "3": {
@@ -94,6 +94,7 @@ var simplemaps_countrymap_mapdata={
       hover_color: "#feb900",
       image_url: "no",
       description: "Authentic dishes of Assam",
+      url: "https://ritwik6.github.io/cyberfair/guide.html#assam",
       zoomable: "no"
     },
     "5": {
@@ -102,6 +103,7 @@ var simplemaps_countrymap_mapdata={
       hover_color: "#feb900",
       image_url: "no",
       description: "Authentic dishes of Bihar",
+      url: "https://ritwik6.github.io/cyberfair/guide.html#bihar",
       zoomable: "no"
     },
     "6": {
@@ -135,6 +137,7 @@ var simplemaps_countrymap_mapdata={
       hover_color: "#feb900",
       image_url: "no",
       description: "Authentic dishes of Goa",
+      url: "https://ritwik6.github.io/cyberfair/guide.html#goa",
       zoomable: "no"
     },
     "12": {
@@ -143,6 +146,7 @@ var simplemaps_countrymap_mapdata={
       hover_color: "#feb900",
       image_url: "no",
       description: "Authentic dishes of Gujarat",
+      url: "https://ritwik6.github.io/cyberfair/guide.html#gujarat",
       zoomable: "no"
     },
     "13": {
@@ -181,6 +185,7 @@ var simplemaps_countrymap_mapdata={
       hover_color: "#feb900",
       image_url: "no",
       description: "Authentic dishes of  Madhya Pradesh",
+      url: "https://ritwik6.github.io/cyberfair/guide.html#mp",
       zoomable: "no"
     },
     "21": {
@@ -194,6 +199,7 @@ var simplemaps_countrymap_mapdata={
       hover_color: "#feb900",
       image_url: "no",
       description: "Authentic dishes of  Manipur",
+      url: "https://ritwik6.github.io/cyberfair/guide.html#manipur",
       zoomable: "no"
     },
     "23": {
@@ -227,6 +233,7 @@ var simplemaps_countrymap_mapdata={
       hover_color: "#feb900",
       image_url: "no",
       description: "Authentic dishes of Punjab",
+      url: "https://ritwik6.github.io/cyberfair/guide.html#punjab",
       zoomable: "no"
     },
     "29": {
@@ -235,6 +242,7 @@ var simplemaps_countrymap_mapdata={
       hover_color: "#feb900",
       image_url: "no",
       description: "Authentic dishes of Rajasthan",
+      url: "https://ritwik6.github.io/cyberfair/guide.html#rajasthan",
       zoomable: "no"
     },
     "30": {
@@ -248,6 +256,7 @@ var simplemaps_countrymap_mapdata={
       hover_color: "#feb900",
       image_url: "no",
       description: "Authentic dishes of Tamil Nadu",
+      url: "https://ritwik6.github.io/cyberfair/guide.html#tamilnadu",
       zoomable: "no"
     },
     "32": {
@@ -271,6 +280,7 @@ var simplemaps_countrymap_mapdata={
       hover_color: "#feb900",
       image_url: "no",
       description: "West Bengal",
+      url: "https://ritwik6.github.io/cyberfair/guide.html#westbengal",
       zoomable: "no"
     },
     "36": {
@@ -279,6 +289,7 @@ var simplemaps_countrymap_mapdata={
       hover_color: "#feb900",
       image_url: "no",
       description: "Authentic dishes of  Jammu and Kashmir",
+      url: "https://ritwik6.github.io/cyberfair/guide.html#jandk",
       zoomable: "no"
     },
     "37": {
@@ -292,6 +303,7 @@ var simplemaps_countrymap_mapdata={
       hover_color: "#feb900",
       image_url: "no",
       description: "Authentic dishes of  Jammu and Kashmir",
+      url: "https://ritwik6.github.io/cyberfair/guide.html#jandk",
       zoomable: "no"
     }
   },
